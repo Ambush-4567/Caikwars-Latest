@@ -1,0 +1,137 @@
+
+.kanit-extrabold {
+  font-family: "Kanit", sans-serif;
+  font-weight: 800;
+  font-style: normal;
+  text-align: center;
+  font-size: 400%;
+  -webkit-text-stroke-width: 4px;
+  -webkit-text-stroke-color: white;
+  background-image: url('blackground.jpg');
+}
+  
+.regular {
+ font-family: "Concert One", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 120%;
+ line-height: 1.4;
+}
+
+.bigreg {
+ font-family: "Concert One", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ font-size: 180%
+}
+
+footer {
+ font-family: "Poiret One", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ position: static;
+ bottom: 0; 
+ font-size: 17px;
+ }
+ 
+ .container {
+ display: flex;
+
+}
+
+.largeimg {
+	width: 820px;
+height: 410px;
+border-radius: 20px;
+ }
+
+ .leftimg {
+  width: 800px;
+  height: 400px;
+  margin-right: 4px;
+  border-radius: 20px;
+ }
+
+.imgtext {
+	font-family: "Concert One", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ margin-top: 90px;
+ margin-left: 50px;
+text-align: center;
+max-width: 400px;
+font-size: 130%; 
+line-height: 1.5;}
+
+.tmargin {
+margin-top: 15px;
+}
+
+.link {
+color: rgb(0, 0, 238);
+}
+
+b {
+font-size: 150%; }
+
+
+.highlight {
+background-color: yellow; }
+
+body {
+  background: rgb(182,95,76);
+background: linear-gradient(90deg, rgba(182,95,76,1) 0%, rgba(178,178,189,1) 35%, rgba(25,142,167,1) 100%);
+  }
+
+
+.figcapa {
+ color: rgb(0, 0, 238);
+ font-size: 150%;
+ font-family: "Kanit", sans-serif;
+ font-weight: 800;
+ font-style: normal;
+ position: relative;
+ margin-top: -50px;
+ text-align: center;
+ padding-bottom: 40px;
+}
+
+ul {
+  font-family: "Concert One", sans-serif;
+ font-weight: 400;
+ font-style: normal;
+ line-height: 35px;
+ font-size: 110%;
+
+}
+
+.figcapb {
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  margin-top: -15px;
+  font-style: italic;
+ 
+}
+
+.largeimg1 {
+	width: 820px;
+height: 410px;
+border-radius: 20px;
+margin-right: 500px;
+}
+
+.largeimg3 {
+	width: 820px;
+height: 410px;
+border-radius: 20px;
+margin-left: 500px;
+}
+
+.pxleft {
+  margin-right: 500px;
+}
+
+.pxright {
+  margin-left: 500px;
+}
