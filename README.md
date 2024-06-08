@@ -1,0 +1,3 @@
+2 Idiots have set out to bring Caikwars back...
+
+Check it out in github pages, if you like it, consider emailing me for a copy. All contact info is contained in the site.
