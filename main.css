@@ -243,3 +243,10 @@ hr {
   color: #228B22;
 }
 
+.centered {
+  text-align: center;
+  font-style: italic;
+  font-family: "Concert One", sans-serif;
+  font-weight: 400;
+}
+
